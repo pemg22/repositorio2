@@ -6,6 +6,8 @@ public class testeaula {
 	private String  nome;
 	
 	private String sobrenome;
+	
+	private String ultimonome;
 
 	public String getNome() {
 		return nome;
