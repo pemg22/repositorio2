@@ -5,6 +5,8 @@ public class testeaula {
 	
 	private String  nome;
 	
+	int maioridade = 18;
+	
 	private String sobrenome;
 
 	public String getNome() {
@@ -25,6 +27,7 @@ public class testeaula {
 		this.sobrenome = sobrenome;
 		
 		
+		System.out.println("maioridade é =" + maioridade);
 	}
 
 }
